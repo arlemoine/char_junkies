@@ -2,8 +2,8 @@ Team Name: char junkies
 
 MUTABLE OBJECT TYPES	
 list
-dict
 set
+dict
 bytearray
 memoryview
 
