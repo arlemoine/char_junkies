@@ -1,0 +1,21 @@
+Team Name: char junkies
+
+MUTABLE OBJECT TYPES	
+list
+set
+dict
+bytearray
+memoryview
+
+
+IMMUTABLE OBJECT TYPES
+str
+tuple
+int
+float
+complex
+bool
+frozenset
+range
+bytes
+NoneType
